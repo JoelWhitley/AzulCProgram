@@ -1,0 +1,9 @@
+3
+Player1
+turn 5 Y 5
+turn 0 B 2
+turn 4 R 3
+save
+tests/AI/AIFinishesRow.save
+exit
+6

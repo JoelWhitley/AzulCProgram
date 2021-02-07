@@ -1,0 +1,36 @@
+true                                Is AI Game (1 for true, 0 for false)
+Nick						        Player 1 name
+Joel 						        Player 2 name
+0						            Player 1 Points
+0						            Player 2 Points
+Joel						        NextTurn
+Y L R R Y L U R B 		            Dump Pile ( Centre Pile )
+• • • • 					        Factory 1
+• • • • 					        Factory 2
+• • • • 					        Factory 3
+• • • •						        Factory 4
+Y L L R 					        Factory 5
+• • • • • 					        Player 1 Board Row 1
+• • • • •  					        Player 1 Board Row 2
+• • • • • 					        Player 1 Board Row 3
+• • • • • 					        Player 1 Board Row 4
+• • • • • 					        Player 1 Board Row 5
+R 						            Player 1 Storage Row 1
+• • 						        Player 1 Storage Row 2
+• B B 						        Player 1 Storage Row 3
+• • • • 					        Player 1 Storage Row 4
+• • • • • 					        Player 1 Storage Row 5
+__________					        Player 1 Broken Tiles 
+• • • • • 					        Player 2 Board Row 1
+• • • • •  					        Player 2 Board Row 2
+• • • • • 					        Player 2 Board Row 3
+• • • • • 					        Player 2 Board Row 4
+• • • • • 					        Player 2 Board Row 5
+• 						            Player 2 Storage Row 1
+LL 						            Player 2 Storage Row 2
+R R R 						        Player 2 Storage Row 3
+• • • • 					        Player 2 Storage Row 4
+• • • • • 					        Player 2 Storage Row 5
+__________					        Player 2 Broken Tiles
+B L R R L Y U R				 	    Box Lid
+B L U R R Y Y L U R L B B R U U	    Bag Tiles

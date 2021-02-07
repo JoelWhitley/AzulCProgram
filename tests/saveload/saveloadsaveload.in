@@ -1,0 +1,16 @@
+1
+Player 1
+Player 2
+turn 1 r 2
+turn 2 r 3
+turn 3 b 1
+turn 4 l 1
+save
+test.save
+exit
+2
+test.save
+save
+test2.save
+exit
+4
